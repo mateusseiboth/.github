@@ -1,5 +1,3 @@
-# Modelo de solicitação de Pull Request
-
 ## Descrição
 
 [Descreva aqui o que essa solicitação de Pull Request realiza e/ou corrige.]
@@ -19,11 +17,9 @@
 
 - [ ] Meu código segue o estilo de código desse projeto.
 - [ ] Meu código passou nos testes locais.
-- [ ] Eu atualizei a documentação.
 - [ ] Eu adicionei testes para cobrir as mudanças no código.
-- [ ] Todos os testes novos e existentes passaram.
 - [ ] Minha mudança requer uma mudança na documentação.
-- [ ] Eu atualizei a documentação de acordo.
+
 
 ## Comentários Adicionais
 
